@@ -1,2 +1,15 @@
-# Retail-Sales-Forecasting
-<div style="background-color: #F9F9F9; padding: 20px; border-radius: 5px;"> <p>Walmart is one of the largest global retail corporations, operating a vast network of hypermarkets. This dataset, provided by Walmart, includes information from 45 different stores across the United States. It contains weekly sales data, with additional details such as store size, location, and promotional activities. Furthermore, the dataset indicates whether the week corresponds to a major holiday, such as Christmas, Thanksgiving, Super Bowl, and Labor Day.</p> <h2 style="font-size: 18px; font-weight: bold; text-align: left;">Business Objectives:</h2> <p>The primary goal of this analysis is to predict the weekly sales for each Walmart store. The dataset features both time-based factors (like the week of the year) and store-specific features (such as store size and location), which may influence sales. Additionally, a critical focus is to determine how major holidays impact sales. Specifically, we aim to analyze how sales fluctuate during holiday weeks compared to non-holiday weeks and how these fluctuations vary across different stores.</p> </div>
+📚 Walmart Sales Prediction Model
+📖 Overview
+Walmart is one of the largest global retail chains with a vast network of hypermarkets. This project uses sales data from 45 Walmart stores across the U.S., including weekly sales, store size, location, and information on major holidays like Christmas, Thanksgiving, Super Bowl, and Labor Day.
+
+The goal of this project is to predict weekly sales for Walmart stores by analyzing time-based factors (like the week of the year) and store-specific features. The analysis also focuses on understanding the impact of holidays on sales and how factors like store size and location influence sales performance.
+
+⚙️ Analysis Objectives
+Sales Prediction: Predicting weekly sales for Walmart stores based on historical data.
+Holiday Impact: Analyzing how major holidays (e.g., Christmas, Thanksgiving) affect sales trends.
+Time and Space Factors: Examining how time-related (week of the year) and spatial factors (store size, location) influence sales.
+Department-Specific Insights: Exploring how specific departments (e.g., groceries, electronics) contribute to sales in different stores.
+📊 Visualization
+Sales Distribution: Visualizing the distribution of sales, including negative sales values.
+Monthly and Weekly Sales Trends: Plotting sales trends over months and weeks, especially focusing on holiday periods.
+Holiday Sales Analysis: Analyzing the effect of holidays on sales patterns for different years and stores.
